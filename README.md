@@ -6,3 +6,4 @@ The customizer tool will let the brand upload its logo and will create a preview
 
 In the demo image, there are 8 colors, however, you just need to create this interface for 3 colors Pink, Blue, and Yellow. You will find all images and icons used in this project here: [https://drive.google.com/drive/folders/1tUatmHWY7c8TV-SsErtM-Htmj2PUS4pl](https://drive.google.com/drive/folders/1tUatmHWY7c8TV-SsErtM-Htmj2PUS4pl?usp=sharing)
 ![image](https://github.com/user-attachments/assets/6b9f2a16-bee1-4ba6-81ac-b7b5fa79c912)
+![image](https://github.com/user-attachments/assets/7dcff0a3-6890-4a4f-9834-c9d896ceb1ef)
